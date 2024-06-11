@@ -1,0 +1,20 @@
+h1{
+    text-align: left;
+    color: blue;
+}
+h6{
+    text-align: left;
+    color: blue;
+}
+p{
+    color: black;
+}
+body{
+    background-image: url(https://ca-times.brightspotcdn.com/dims4/default/a426268/2147483647/strip/true/crop/2048x1151+0+0/resize/1200x674!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb3%2F65%2Fdaf8cb3bd863ee9a9547f8f652ae%2Fla-1512109111-ew3xhywr3t-snap-image);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+#header{
+        margin-top: 590pt;
+}
